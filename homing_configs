@@ -35,7 +35,7 @@ z_hop:10
 ##  z_positions: Location of toolhead
 z_positions:
    -50, 18
-   150, 289
+   150, 292
    300, 18
 points:
    30, 15
