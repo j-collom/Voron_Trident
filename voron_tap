@@ -8,8 +8,8 @@ speed: 10.0
 samples: 3
 samples_result: median
 sample_retract_dist: 2.0
-samples_tolerance: 0.006
-samples_tolerance_retries: 3
+samples_tolerance: 0.011
+samples_tolerance_retries: 4
 
 ##  Activate Tap
 activate_gcode:
